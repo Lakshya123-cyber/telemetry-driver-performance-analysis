@@ -1,0 +1,23 @@
+DRIVER FEEDBACK REPORT
+============================================================
+Reference lap: Lap 1
+
+Lap 2  (total time lost vs best: 78.17s)
+------------------------------------------------------------
+Sector 1 [weak]: good entry but throttle pickup on exit is late (-39.36s); racing line drifts 668.2 m from the best lap on average
+Sector 2 [weak]: losing speed mid-corner (apex) despite a clean entry and exit (-38.86s); racing line drifts 649.8 m from the best lap on average
+
+Lap 3  (total time lost vs best: -117.37s)
+------------------------------------------------------------
+Sector 2 [weak]: losing speed mid-corner (apex) despite a clean entry and exit (-38.42s); racing line drifts 649.8 m from the best lap on average
+Sector 1 [strong]: good entry but throttle pickup on exit is late; racing line drifts 668.5 m from the best lap on average; steering inputs are less smooth than on the best lap
+
+Lap 4  (total time lost vs best: -52.97s)
+------------------------------------------------------------
+Sector 2 [weak]: losing speed mid-corner (apex) despite a clean entry and exit (-37.84s); racing line drifts 650.0 m from the best lap on average
+Sector 1 [strong]: good entry but throttle pickup on exit is late; racing line drifts 668.3 m from the best lap on average; steering inputs are less smooth than on the best lap
+
+Lap 5  (total time lost vs best: -52.19s)
+------------------------------------------------------------
+Sector 2 [weak]: losing speed mid-corner (apex) despite a clean entry and exit (-37.59s); racing line drifts 649.8 m from the best lap on average
+Sector 1 [strong]: good entry but throttle pickup on exit is late; racing line drifts 668.5 m from the best lap on average; steering inputs are less smooth than on the best lap
